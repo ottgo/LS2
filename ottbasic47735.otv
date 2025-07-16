@@ -3557,9 +3557,7 @@ https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd 
 
 
-#EXTINF:-1 tvg-id="6532e7fa045c3d0008514ca7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/warnertv.png" group-title="ENTERTAINMENT", WARNER BROS. TV SWEET ESCAPES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
+
 
 
 
@@ -3640,12 +3638,17 @@ https://tunebox.shop/promo2
 
 
 
-#EXTINF:-1 tvg-name="AWE" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/a&e.png" group-title="ENTERTAINMENT",AWE
+#EXTINF:-1 tvg-id="6532e7fa045c3d0008514ca7" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/warnertv.png" group-title="ENTERTAINMENT", WARNER BROS. TV SWEET ESCAPES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
+https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="AWE" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/awe.png" group-title="ENTERTAINMENT",AWE
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="AMERICAN HEROES CHANNEL" tvg-id="American.Heroes.Channel.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/ahc.png" group-title="ENTERTAINMENT",AMERICAN HEROES CHANNEL
-http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
 
 #EXTINF:-1 tvg-name="ANTENNA" tvg-id="Antenna.TV.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/antennatv.png" group-title="ENTERTAINMENT",ANTENNA
@@ -3799,17 +3802,13 @@ https://fl3.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-name="MTV2" tvg-id="MTV.2.-.East.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/mtv2.png" group-title="ENTERTAINMENT",MTV2
 https://fl5.moveonjoy.com/MTV_2/index.m3u8
 
-
-#EXTINF:-1 tvg-name="MTV CLASSIC" tvg-id="MTV.Classic.-.East.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/mtvclassic.png" group-title="ENTERTAINMENT",MTV CLASSIC
-https://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
-
-
-#EXTINF:-1 tvg-name="MTV LIVE" tvg-id="MTV.Live.HD.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/mtvlive.png" group-title="ENTERTAINMENT",MTV LIVE
-https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-name="MTV" tvg-id="MTV.be" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtv.png" group-title="ENTERTAINMENT",MTV USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
+https://fl3.moveonjoy.com/MTV/mono.m3u8
 
 
-#EXTINF:-1 tvg-name="MTVU" tvg-id="MTV-U.(MTV-U).us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/mtvu.png" group-title="ENTERTAINMENT",MTVU
-https://fl3.moveonjoy.com/MTV_U/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-name="OPRAH WINFREY NETWORK" tvg-id="Oprah.Winfrey.Network.USA.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/own.png" group-title="ENTERTAINMENT",OPRAH WINFREY NETWORK
@@ -6477,6 +6476,10 @@ https://jmp2.uk/plu-66b66b9e14a2bb000872f606.m3u8
 DOCUMENTARY
 ############
 
+#EXTINF:-1 group-title="DOCUMENTARY" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/documentarylogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ I N D O N E S I A ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
+
+
 
 #EXTINF:-1 tvg-id="BBC.World.News.id" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bbcworld.png" group-title="DOCUMENTARY",BBC WORLD ID
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -6539,7 +6542,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
 
 
 
-
+#EXTINF:-1 group-title="DOCUMENTARY" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/documentarylogo.png" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="Blank.Dummy.us",▬▬▬▬▬▬▬ P H I L I P P I N E S ▬▬▬▬▬▬▬
+https://tunebox.shop/promo2
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -6617,8 +6621,17 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_crime_invest.mpd
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tech_storm.mpd
 
 
-#EXTINF:-1 tvg-name="▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/null.png" group-title="DOCUMENTARY",▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/null.png" group-title="DOCUMENTARY",▬▬▬▬▬▬▬ U N I T E D  S T A T E S ▬▬▬▬▬▬▬
 https://tunebox.space/promo2
+
+
+
+#EXTINF:-1 tvg-name="AMERICAN HEROES CHANNEL" tvg-id="American.Heroes.Channel.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/ahc.png" group-title="DOCUMENTARY",AMERICAN HEROES CHANNEL
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/animalplanet.png" group-title="DOCUMENTARY",ANIMAL PLANET
 https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
@@ -8394,15 +8407,8 @@ https://fl3.moveonjoy.com/BET_SOUL/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="CMT" tvg-id="CMT.us@East" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cmt.png" group-title="MUSIC",CMT USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://fl3.moveonjoy.com/CMT/mono.m3u8
 
 
-
-#EXTINF:-1 tvg-name="MTV2" tvg-id="MTV.be" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mtv2.png" group-title="MUSIC",MTV2 USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://fl3.moveonjoy.com/MTV_2/mono.m3u8
 
 
 
@@ -8412,9 +8418,7 @@ https://fl3.moveonjoy.com/MTV_CLASSIC/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-name="MTV" tvg-id="MTV.be" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtv.png" group-title="MUSIC",MTV USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://fl3.moveonjoy.com/MTV/mono.m3u8
+
 
 
 
@@ -8442,10 +8446,6 @@ https://fl3.moveonjoy.com/FUSE/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-name="VH1" tvg-id="VH1.us@East" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vh1.png" group-title="MUSIC",VH1 USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://fl3.moveonjoy.com/VH1/mono.m3u8
-
 
 
 #EXTINF:-1 tvg-name="CMT Equal Play" tvg-id="5f68f53eb1e5800007390bf8" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cmt.png" group-title="MUSIC",CMT Equal Play
@@ -8461,9 +8461,7 @@ https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Logo MUSlC" tvg-id="5ce5a8954311f992edbe1da2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/logo..png" group-title="MUSIC",Logo MUSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
+
 
 
 
@@ -9336,124 +9334,6 @@ https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="RADlO" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rtbnasional.png",RTB NASIONAL
 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
