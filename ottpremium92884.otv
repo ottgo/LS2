@@ -1922,7 +1922,7 @@ CODE:403-FORBIDDEN
 
 
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://epg.pw/xmltv/epg_ID.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://i.mjh.nz/PlutoTV/us.xml.gz, https://epg.pw/xmltv/epg_MY.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epg.pw/xmltv/epg_IN.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://i.mjh.nz/SkySportNow/epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://epg.pw/xmltv/epg_US.xml.gz" vod_library="https://tunebox.space/‍vod" billed-msg="U N T U K  P E R T A N Y A A N  A T A U  L A N G G A N A N  H U B U N G I  -  W H A T S A P P / T E L E G R A M  -  0 1 1  3 1 0 9  2 6 0 5  ( A D M I N )"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://epg.pw/xmltv/epg_ID.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://i.mjh.nz/PlutoTV/us.xml.gz, https://epg.pw/xmltv/epg_MY.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epg.pw/xmltv/epg_IN.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://i.mjh.nz/SkySportNow/epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://epg.pw/xmltv/epg_US.xml.gz" vod_library="https://tunebox.space/‍vod" billed-msg="U N T U K  P E R T A N Y A A N  A T A U  L A N G G A N A N  H U B U N G I  -  W H A T S A P P / T E L E G R A M  -  0 1 1  3 1 0 9  2 6 0 5  ( A D M I N )"
 
 
 #EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv1.png" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/malaysialogo.png" group-title="MALAYSIA",101 TV1
@@ -4328,7 +4328,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Uniques.id" tvg-name="Uniques" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/cinemachixtra.png" group-title="Movies", CINEMACHI XTRA
+#EXTINF:-1 tvg-id="UNIQUES.HD.id" tvg-name="Uniques" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/cinemachixtra.png" group-title="Movies", CINEMACHI XTRA
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
@@ -4337,7 +4337,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Originals.id" tvg-name="Originals" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/cinemachi.png" group-title="Movies", CINEMACHI
+#EXTINF:-1 tvg-id="ORIGINALS.HD.id" tvg-name="Originals" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/cinemachi.png" group-title="Movies", CINEMACHI
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
@@ -4347,7 +4347,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="CineEdge.id" tvg-name="CineEdge" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/cinemachiaction.png" group-title="Movies", CINEMACHI ACTION
+#EXTINF:-1 tvg-id="CINEEDGE.HD.id" tvg-name="CineEdge" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/cinemachiaction.png" group-title="Movies", CINEMACHI ACTION
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
@@ -4357,7 +4357,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Superrix.id" tvg-name="Superrix" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/cinemachimax.png" group-title="Movies", CINEMACHI MAX
+#EXTINF:-1 tvg-id="SUPRERRIX.HD.id" tvg-name="Superrix" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/cinemachimax.png" group-title="Movies", CINEMACHI MAX
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
@@ -4367,7 +4367,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index
 #KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="BuddyStar.id" tvg-name="Buddy Star" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/buddystar.png" group-title="Movies", BUDDY STAR
+#EXTINF:-1 tvg-id="BUDDY.STARS.HD.id" tvg-name="Buddy Star" tvg-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/buddystar.png" group-title="Movies", CINEMACHI KIDS
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
@@ -4390,41 +4390,41 @@ http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
-#EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbo.png" group-title="MOVIES",HBO
+#EXTINF:-1 tvg-id="HBO.HD.id" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbo.png" group-title="MOVIES",HBO
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
-#EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbohits.png" group-title="MOVIES",HBO HITS
+#EXTINF:-1 tvg-id="HBO.Hits.HD.id" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbohits.png" group-title="MOVIES",HBO HITS
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
-#EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbofamily.png" group-title="MOVIES",HBO FAMILY
+#EXTINF:-1 tvg-id="HBO.Family.HD.id" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbofamily.png" group-title="MOVIES",HBO FAMILY
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbosignature.png" group-title="MOVIES",HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBO.Signature.HD.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbosignature.png" group-title="MOVIES",HBO SIGNATURE
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
-#EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cinemax.png" group-title="MOVIES",CINEMAX
+#EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cinemax.png" group-title="MOVIES",CINEMAX
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
 
 
 
-#EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/thrill.png" group-title="MOVIES", THRILL
+#EXTINF:-1 tvg-id="Thrill.id" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/thrill.png" group-title="MOVIES", THRILL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
@@ -4443,7 +4443,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 
-#EXTINF:-1 tvg-id="sonymax2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonymax2.png" group-title="MOVIES",SONY MAX 2
+#EXTINF:-1 tvg-id="Sony.MAX2.in" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonymax2.png" group-title="MOVIES",SONY MAX 2
 https://tiger-hub.vercel.app/SONY/Max2/tracks-v1a1/mono.ts.m3u8
 
 
@@ -4452,26 +4452,26 @@ https://tiger-hub.vercel.app/SONY/Max2/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/SONY/MoviesUS/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 tvg-id="411695" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/&flix.png" group-title="MOVIES", &FLIX
+#EXTINF:-1 tvg-id="AndFlix.HD.in" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/&flix.png" group-title="MOVIES", &FLIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2685.ts
 
-#EXTINF:-1 tvg-id="411602" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/&prive.png" group-title="MOVIES",&PRIVE HD
+#EXTINF:-1 tvg-id="And.Prive.HD.in" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/&prive.png" group-title="MOVIES",&PRIVE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2686.ts
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sonypix.png" group-title="MOVIES" tvg-id="SONY.PIX.in" tvg-name="SonyPix.in", SONY PIX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sonypix.png" group-title="MOVIES" tvg-id="Sony.Pix.HD.in" tvg-name="SonyPix.in", SONY PIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://tiger-hub.vercel.app/SONY/Pix/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="STAR.MOVIES.in" tvg-name="152 Star Movies" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/starmovies.png" group-title="MOVIES", STAR MOVIES
+#EXTINF:-1 tvg-id="Star.Movies.in" tvg-name="152 Star Movies" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/starmovies.png" group-title="MOVIES", STAR MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
 
 
 
-#EXTINF:-1 tvg-id="STAR.MOVIES.in" tvg-name="152 Star Movies" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/starmovies.png" group-title="MOVIES", STAR MOVIES SELECT
+#EXTINF:-1 tvg-id="Star.Movies.Select.HD.in" tvg-name="152 Star Movies" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/starmovies.png" group-title="MOVIES", STAR MOVIES SELECT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
 
@@ -4767,33 +4767,33 @@ https://fl3.moveonjoy.com/FXX/mono.m3u8
 https://tunebox.shop/promo2
 
 
-#EXTINF:-1 tvg-id="Action.Movies.-.Rakuten.TV.en" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenaction.png" group-title="MOVIES",RAKUTEN ACTION
+#EXTINF:-1 tvg-id="UK:.Action.Movies.-.Rakuten.TV.be" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenaction.png" group-title="MOVIES",RAKUTEN ACTION
 https://raw.githubusercontent.com/mystery75/m3u8/main/RACTION.m3u8
 
 
-#EXTINF:-1 tvg-id="Comedy.Movies.-.Rakuten.TV.en" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutencomedy.png" group-title="MOVIES",RAKUTEN COMEDY  
+#EXTINF:-1 tvg-id="UK:.Comedy.Movies.-.Rakuten.TV.be" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutencomedy.png" group-title="MOVIES",RAKUTEN COMEDY  
 https://raw.githubusercontent.com/mystery75/m3u8/main/RCOMEDY.m3u8
 
-#EXTINF:-1 tvg-id="Drama.Movies.-.Rakuten.TV.en" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutendrama.png"  group-title="MOVIES",RAKUTEN DRAMA
+#EXTINF:-1 tvg-id="UK:.Drama.Movies.-.Rakuten.TV.be" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutendrama.png"  group-title="MOVIES",RAKUTEN DRAMA
 https://raw.githubusercontent.com/mystery75/m3u8/main/RDRAMA.m3u8
 
-#EXTINF:-1 tvg-id="Family.-.Rakuten.TV.en" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenfamily.png" group-title="MOVIES",RAKUTEN FAMILY
+#EXTINF:-1 tvg-id="UK:.Family.-.Rakuten.TV.be" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenfamily.png" group-title="MOVIES",RAKUTEN FAMILY
 https://raw.githubusercontent.com/mystery75/m3u8/main/RFAMILY.m3u8
 
-#EXTINF:-1 tvg-id="Top.Movies.-.Rakuten.TV.en" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutentopfilm.png" group-title="MOVIES",RAKUTEN TOP MOVIES
+#EXTINF:-1 tvg-id="UK:.Top.Movies.-.Rakuten.TV.be" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutentopfilm.png" group-title="MOVIES",RAKUTEN TOP MOVIES
 https://raw.githubusercontent.com/mystery75/m3u8/main/RTOPMOVIES.m3u8
 
-#EXTINF:-1 tvg-id="Romance.Movies.-.Rakuten.TV.en" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenromance.png"  group-title="MOVIES",RAKUTEN ROMANCE
+#EXTINF:-1 tvg-id="UK:.Romance.Movies.-.Rakuten.TV.be" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenromance.png"  group-title="MOVIES",RAKUTEN ROMANCE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/sam-GB2600014LQ.m3u8
 
-#EXTINF:-1 tvg-id="Sci-fi.-.Rakuten.TV.en" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenscifi.png" group-title="MOVIES" tvg-chno="4975",RAKUTEN SCI-FI
+#EXTINF:-1 tvg-id="UK:.Sci-fi.-.Rakuten.TV.be" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenscifi.png" group-title="MOVIES" tvg-chno="4975",RAKUTEN SCI-FI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://jmp2.uk/sam-GB2600013BO.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Rakuten.VIKI.en" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenviki.png" group-title="MOVIES",RAKUTEN VIKI
+#EXTINF:-1 tvg-id="UK:.Rakuten.VIKI.be" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rakutenviki.png" group-title="MOVIES",RAKUTEN VIKI
 https://raw.githubusercontent.com/mystery75/m3u8/main/RVIKI.m3u8
 
 
@@ -6406,27 +6406,27 @@ https://tunebox.space/‍premiersport.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/ottgo/icon/refs/heads/main/null.png" tvg-id="sonysport.ott",▬▬▬▬▬▬▬ SONY SPORT ▬▬▬▬▬▬▬
 https://tunebox.shop/promo2 
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="441226" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports1.png",SONY TEN SPORTS 1
+#EXTINF:-1 group-title="SPORTS" tvg-id="Sony.Sports.Ten.1.HD.in" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports1.png",SONY TEN SPORTS 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="441175" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports2.png",SONY TEN SPORTS 2
+#EXTINF:-1 group-title="SPORTS" tvg-id="Sony.Sports.Ten.2.HD.in" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports2.png",SONY TEN SPORTS 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="441277" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports3.png",SONY TEN SPORTS 3
+#EXTINF:-1 group-title="SPORTS" tvg-id="Sony.Sports.Ten.3.HD.in" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports3.png",SONY TEN SPORTS 3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="441393" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports4.png",SONY TEN SPORTS 4
+#EXTINF:-1 group-title="SPORTS" tvg-id="Sony.Sports.Ten.4.HD.in" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports4.png",SONY TEN SPORTS 4
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="441387" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports5.png",SONY TEN SPORTS 5
+#EXTINF:-1 group-title="SPORTS" tvg-id="Sony.Sports.Ten.5.in" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports5.png",SONY TEN SPORTS 5
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
